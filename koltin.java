@@ -13,9 +13,9 @@ public class koltin {
 	}//End of main method
 	public static void say(Scanner sc, int burn) {
 		if(burn==10) {
-			System.out.println("KaaaaMeeeeeHaaaaMeeeHaaaaaaaaaaaaa!");
+			System.out.println("KaaaaMeeeeeHaaaaMeeeHaaaaaaaaaaaaa!!!");
 		} else {
-			System.out.println("WRONG!!!");
+			System.out.println("WRONG NUMBER!!!");
 		}
 	}//End of say method
 }//End of class
