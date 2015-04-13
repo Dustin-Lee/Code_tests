@@ -1,3 +1,4 @@
+#A module adds functionality (adds functions), but isn't considered an object itself
 module Enumerable
 	def max
 		puts 'in max'
